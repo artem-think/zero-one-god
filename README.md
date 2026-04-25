@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="cover.png" width="800"/>
+</p>
+
 # ZERO.ONE.GOD
 
 Initial publication: 2026-04-25
