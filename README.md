@@ -80,3 +80,8 @@ This project is a conceptual artifact.
 
 The source document is the only canonical truth.  
 All other formats are derived representations of the same system state.
+
+## Citation
+
+ZERO.ONE.GOD (2026). Initial Publication. Zenodo.  
+DOI: 10.5281/zenodo.19772614
