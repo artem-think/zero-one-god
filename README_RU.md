@@ -1,5 +1,9 @@
 # ZERO.ONE.GOD
 
+DOI: 10.5281/zenodo.19772614
+
+Это издание заархивировано с DOI: 10.5281/zenodo.19772614
+
 <p align="center">
   <img src="cover.png" width="800"/>
 </p>
